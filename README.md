@@ -1,4 +1,6 @@
-# XenonStack_Project : As per the given problem statement by Xenonstack team I have made a website and for that I have choosen the theme "Ecommerce". 
+# XenonStack_Project 
+
+As per the given problem statement by Xenonstack team I have made a website and for that I have choosen the theme "Ecommerce". 
 
 I have made an online shopping site named as "Sayanti's Fashion Store" in which I have put a "Home page" along with "Contact Us", "About Us" and a "Login" page. 
 
